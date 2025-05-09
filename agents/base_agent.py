@@ -1,4 +1,4 @@
-from agno import Agent
+from agno.agent import Agent
 import logging
 from typing import Dict, Any
 
